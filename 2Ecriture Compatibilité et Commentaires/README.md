@@ -6,7 +6,7 @@ Le JavaScript s'implémente dans une page web de 2 manières différentes:
 
 > Dans le code de la page html
 >
->> Dans le <head> ou le <body> (Préférable dans le body à la fin de la page de code)    
+>> Dans le head ou le body (Préférable dans le body à la fin de la page de code)    
 
 > Dans un fichier .js séparé (méthode préférée)    
 >
@@ -18,7 +18,7 @@ Le JavaScript s'implémente dans une page web de 2 manières différentes:
 Le JavaScript s'écrit dans le code avec un élément <script>     
 
 Exemple : 
-![Exemple](/assets/scripthtml.PNG "Script js dans un code HTML)
+![Exemple](/assets/scripthtml.PNG "Script js dans un code HTML")
 
 
 Dans un fichier .js séparé, le code Js s'écrit directement sans le <script>    
