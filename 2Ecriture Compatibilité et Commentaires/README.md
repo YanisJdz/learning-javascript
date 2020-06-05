@@ -18,7 +18,7 @@ Le JavaScript s'implémente dans une page web de 2 manières différentes:
 Le JavaScript s'écrit dans le code avec un élément <script>     
 
 Exemple : 
-![Exemple](/assets/scripthtml.PNG "Script js dans un code HTML")
+![Exemple](https://raw.githubusercontent.com/YanisJdz/learning-javascript/master/2Ecriture%20Compatibilité%20et%20Commentaires/assets/scripthtml.png "Script js dans un code HTML")
 
 
 Dans un fichier .js séparé, le code Js s'écrit directement sans le <script>    
