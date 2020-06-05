@@ -23,11 +23,11 @@ Exemple :
 
 Dans un fichier .js séparé, le code Js s'écrit directement sans le <script>    
 Pour lié le fichier .js avec le fichier .html, dans le code html, dans <script> , il faudra ajouter la source du fichier .js    
-![ScriptJs](/assets/scriptjs.PNG "Script js dans un fichier .js")
-![Source](/assets/sourceJs.PNG "Lien .html et .js")
+![ScriptJs](https://raw.githubusercontent.com/YanisJdz/learning-javascript/master/2Ecriture%20Compatibilité%20et%20Commentaires/assets/scriptjs.png "Script js dans un fichier .js")
+![Source](https://raw.githubusercontent.com/YanisJdz/learning-javascript/master/2Ecriture%20Compatibilité%20et%20Commentaires/assets/sourceJs.png "Lien .html et .js")
 
 
 ### Commentaires 
 
 Pour commenter en javascrip il y a deux méthodes:
-![Commentaires](/assets/commentaire.PNG "Commenter en javascript")
+![Commentaires](https://raw.githubusercontent.com/YanisJdz/learning-javascript/master/2Ecriture%20Compatibilité%20et%20Commentaires/assets/commentaire.png "Commenter en javascript")
