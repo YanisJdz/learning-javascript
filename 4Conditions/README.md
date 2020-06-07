@@ -15,7 +15,7 @@ Les conditions en JavaScript marchent aussi de la même manière qu'en language 
 
 ## Comparaisons 
 
-![Comparaisons](https://raw.githubusercontent.com/YanisJdz/learning-javascript/master/4Conditions/assets/comparaisons.png"Comparaison")
+![Comparaisons](https://raw.githubusercontent.com/YanisJdz/learning-javascript/master/4Conditions/assets/comparaisons.png "Comparaisons")
 
 
 ## If ... Else if ... Else
